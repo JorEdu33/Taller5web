@@ -1,0 +1,65 @@
+[Thu May 18 14:30:37.076114 2023] [mpm_winnt:notice] [pid 6624:tid 384] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Thu May 18 14:30:37.077113 2023] [mpm_winnt:notice] [pid 6624:tid 384] AH00456: Server built: Jan 15 2023 10:24:46
+[Thu May 18 14:30:37.077113 2023] [core:notice] [pid 6624:tid 384] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Thu May 18 14:30:37.121244 2023] [mpm_winnt:notice] [pid 6624:tid 384] AH00418: Parent: Created child process 3636
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 3636:tid 380] AH00354: Child: Starting 64 worker threads.
+[Thu May 18 14:32:21.635905 2023] [mpm_winnt:notice] [pid 6624:tid 384] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu May 18 14:32:42.336620 2023] [mpm_winnt:notice] [pid 3636:tid 380] AH00364: Child: All worker threads have exited.
+[Thu May 18 14:35:36.813357 2023] [core:warn] [pid 12720:tid 332] AH00098: pid file C:/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu May 18 14:35:36.823154 2023] [mpm_winnt:notice] [pid 12720:tid 332] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Thu May 18 14:35:36.824153 2023] [mpm_winnt:notice] [pid 12720:tid 332] AH00456: Server built: Jan 15 2023 10:24:46
+[Thu May 18 14:35:36.824153 2023] [core:notice] [pid 12720:tid 332] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Thu May 18 14:35:36.834070 2023] [mpm_winnt:notice] [pid 12720:tid 332] AH00418: Parent: Created child process 12960
+[Thu May 18 14:35:37.357969 2023] [mpm_winnt:notice] [pid 12960:tid 340] AH00354: Child: Starting 64 worker threads.
+[Thu May 18 14:36:08.569694 2023] [mpm_winnt:notice] [pid 12720:tid 332] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu May 18 14:36:38.577467 2023] [mpm_winnt:notice] [pid 12720:tid 332] AH00431: Parent: Forcing termination of child process 12960
+[Thu May 18 14:36:53.622584 2023] [mpm_winnt:notice] [pid 14456:tid 344] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Thu May 18 14:36:53.623580 2023] [mpm_winnt:notice] [pid 14456:tid 344] AH00456: Server built: Jan 15 2023 10:24:46
+[Thu May 18 14:36:53.623580 2023] [core:notice] [pid 14456:tid 344] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Thu May 18 14:36:53.630091 2023] [mpm_winnt:notice] [pid 14456:tid 344] AH00418: Parent: Created child process 14712
+[Thu May 18 14:36:54.156119 2023] [mpm_winnt:notice] [pid 14712:tid 340] AH00354: Child: Starting 64 worker threads.
+[Thu May 18 14:48:39.011265 2023] [core:warn] [pid 4144:tid 172] AH00098: pid file C:/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu May 18 14:48:39.019265 2023] [mpm_winnt:notice] [pid 4144:tid 172] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Thu May 18 14:48:39.019265 2023] [mpm_winnt:notice] [pid 4144:tid 172] AH00456: Server built: Jan 15 2023 10:24:46
+[Thu May 18 14:48:39.019265 2023] [core:notice] [pid 4144:tid 172] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Thu May 18 14:48:39.022265 2023] [mpm_winnt:notice] [pid 4144:tid 172] AH00418: Parent: Created child process 6016
+[Thu May 18 14:48:40.452595 2023] [mpm_winnt:notice] [pid 6016:tid 336] AH00354: Child: Starting 64 worker threads.
+[Thu May 18 19:07:04.985301 2023] [mpm_winnt:notice] [pid 4144:tid 172] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu May 18 19:07:07.003684 2023] [mpm_winnt:notice] [pid 6016:tid 336] AH00364: Child: All worker threads have exited.
+[Thu May 18 19:07:07.035155 2023] [mpm_winnt:notice] [pid 4144:tid 172] AH00430: Parent: Child process 6016 exited successfully.
+[Thu May 18 19:08:42.104240 2023] [mpm_winnt:notice] [pid 3812:tid 324] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Thu May 18 19:08:42.106240 2023] [mpm_winnt:notice] [pid 3812:tid 324] AH00456: Server built: Jan 15 2023 10:24:46
+[Thu May 18 19:08:42.106240 2023] [core:notice] [pid 3812:tid 324] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Thu May 18 19:08:42.110239 2023] [mpm_winnt:notice] [pid 3812:tid 324] AH00418: Parent: Created child process 6096
+[Thu May 18 19:08:43.377875 2023] [mpm_winnt:notice] [pid 6096:tid 360] AH00354: Child: Starting 64 worker threads.
+[Fri May 19 20:49:42.484776 2023] [core:warn] [pid 4328:tid 332] AH00098: pid file C:/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri May 19 20:49:42.493776 2023] [mpm_winnt:notice] [pid 4328:tid 332] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Fri May 19 20:49:42.494777 2023] [mpm_winnt:notice] [pid 4328:tid 332] AH00456: Server built: Jan 15 2023 10:24:46
+[Fri May 19 20:49:42.494777 2023] [core:notice] [pid 4328:tid 332] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Fri May 19 20:49:42.498777 2023] [mpm_winnt:notice] [pid 4328:tid 332] AH00418: Parent: Created child process 6448
+[Fri May 19 20:49:43.957504 2023] [mpm_winnt:notice] [pid 6448:tid 336] AH00354: Child: Starting 64 worker threads.
+[Fri May 19 20:53:46.016794 2023] [mpm_winnt:notice] [pid 4328:tid 332] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri May 19 20:53:48.036133 2023] [mpm_winnt:notice] [pid 6448:tid 336] AH00364: Child: All worker threads have exited.
+[Fri May 19 20:53:48.051756 2023] [mpm_winnt:notice] [pid 4328:tid 332] AH00430: Parent: Child process 6448 exited successfully.
+[Sat May 20 13:01:20.553633 2023] [mpm_winnt:notice] [pid 4172:tid 324] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Sat May 20 13:01:20.559639 2023] [mpm_winnt:notice] [pid 4172:tid 324] AH00456: Server built: Jan 15 2023 10:24:46
+[Sat May 20 13:01:20.559639 2023] [core:notice] [pid 4172:tid 324] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sat May 20 13:01:20.564642 2023] [mpm_winnt:notice] [pid 4172:tid 324] AH00418: Parent: Created child process 2584
+[Sat May 20 13:01:22.261931 2023] [mpm_winnt:notice] [pid 2584:tid 336] AH00354: Child: Starting 64 worker threads.
+[Sat May 20 17:19:11.362542 2023] [mpm_winnt:notice] [pid 4172:tid 324] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat May 20 17:19:13.379885 2023] [mpm_winnt:notice] [pid 2584:tid 336] AH00364: Child: All worker threads have exited.
+[Sat May 20 17:19:13.401604 2023] [mpm_winnt:notice] [pid 4172:tid 324] AH00430: Parent: Child process 2584 exited successfully.
+[Sun May 21 00:43:25.450970 2023] [mpm_winnt:notice] [pid 4252:tid 320] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Sun May 21 00:43:25.452974 2023] [mpm_winnt:notice] [pid 4252:tid 320] AH00456: Server built: Jan 15 2023 10:24:46
+[Sun May 21 00:43:25.452974 2023] [core:notice] [pid 4252:tid 320] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sun May 21 00:43:25.456972 2023] [mpm_winnt:notice] [pid 4252:tid 320] AH00418: Parent: Created child process 7088
+[Sun May 21 00:43:27.201582 2023] [mpm_winnt:notice] [pid 7088:tid 352] AH00354: Child: Starting 64 worker threads.
+[Sat May 20 21:51:42.085963 2023] [mpm_winnt:notice] [pid 4252:tid 320] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat May 20 21:51:44.092620 2023] [mpm_winnt:notice] [pid 7088:tid 352] AH00364: Child: All worker threads have exited.
+[Sat May 20 21:51:44.112823 2023] [mpm_winnt:notice] [pid 4252:tid 320] AH00430: Parent: Child process 7088 exited successfully.
+[Sun May 21 03:18:55.782215 2023] [mpm_winnt:notice] [pid 4120:tid 348] AH00455: Apache/2.4.55 (Win64) OpenSSL/1.1.1s configured -- resuming normal operations
+[Sun May 21 03:18:55.783213 2023] [mpm_winnt:notice] [pid 4120:tid 348] AH00456: Server built: Jan 15 2023 10:24:46
+[Sun May 21 03:18:55.783213 2023] [core:notice] [pid 4120:tid 348] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sun May 21 03:18:55.786705 2023] [mpm_winnt:notice] [pid 4120:tid 348] AH00418: Parent: Created child process 5976
+[Sun May 21 03:18:57.039607 2023] [mpm_winnt:notice] [pid 5976:tid 336] AH00354: Child: Starting 64 worker threads.
